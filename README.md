@@ -10,7 +10,7 @@
 
 ![L-dongkyung's github stats](https://github-readme-stats.vercel.app/api?username=L-dongkyung&show_icons=true)
 [![L-dongkyung's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=L-dongkyung&show_icons=true&hide_border=true&layout=compact&theme=nord)](https://github.com/L-dongkyung)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-dongkyung)](https://github.com/L-dongkyung/github-readme-stats)
 
 
 
