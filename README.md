@@ -28,8 +28,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-dongkyung&theme=dracula&layout=compact"/>
  
 <div align="center">
- 
-### You can find me on
+<br>
+
+### 🙋 You can find me on 📲
 
   <a href="mailto:ckldk91m@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>ckldk91m@gmail.com
   <br>
