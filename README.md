@@ -20,18 +20,24 @@
   
   
 </div>
+<br>
 
- ---
- 
- <br>
+---
+
  
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-dongkyung&theme=dracula&layout=compact"/>
  
 <div align="center">
  
-### Contact
+### You can find me on
 
- <a href="mailto:ckldk91m@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://dongkyung.notion.site/dongkyung/Python-6b3114e7634d4159993a05e163828d61"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black">
+  <a href="mailto:ckldk91m@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>ckldk91m@gmail.com
+  <br>
+  <a href="https://dongkyung.notion.site/dongkyung/Python-6b3114e7634d4159993a05e163828d61"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black"></a>
+  <a href="https://github.com/L-dongkyung"><img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    
+
+</div>
 
 <!-- ### Hi I'm dongkyung 👋
 
@@ -60,3 +66,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+<!-- preference: https://github.com/seondal/seondal -->
